@@ -9,7 +9,7 @@
   },
   "config": {
     "demoVideoUrl": "",
-    "droneImageUrl": "https://www.pngall.com/wp-content/uploads/4/DJI-Drone-PNG-Image.png",
+    "droneImageUrl": "https://raw.githubusercontent.com/xieyunan83/ZCYH-data/main/uploads/1769495427858____1.png",
     "droneScale": 1,
     "droneOffsetX": 0,
     "droneOffsetY": 0
@@ -88,8 +88,8 @@
       "id": "1",
       "clientName": "招商港集团",
       "projectTitle": "东江仓码、石龙港、新塘港智慧化改造",
-      "result": "全面提升码头安全管理水平，实现异常情况自动告警。",
-      "imageUrl": "https://images.unsplash.com/photo-1542114760-b6951263d905?auto=format&fit=crop&q=80&w=1000",
+      "result": "效率提升 +90%",
+      "imageUrl": "https://raw.githubusercontent.com/xieyunan83/ZCYH-data/main/uploads/1769495474685____.png",
       "opacity": 0.3,
       "scale": 1,
       "offsetX": 0,
