@@ -9,8 +9,8 @@
   },
   "config": {
     "demoVideoUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769496989860_____.mp4",
-    "droneImageUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769506397962_bsce0n.png",
-    "droneScale": 1,
+    "droneImageUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769497022013____1.png",
+    "droneScale": 1.1,
     "droneOffsetX": 0,
     "droneOffsetY": 0
   },
