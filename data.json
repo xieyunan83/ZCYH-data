@@ -1,15 +1,15 @@
 {
   "companyInfo": {
     "name": "广东中创云海科技有限公司",
-    "logoText": "中创云海 | ZCYH",
+    "logoText": "广东中创云海科技有限公司",
     "slogan": "智慧港口安全管理应用",
     "description": "融合制度规范、技术应用与管理智能化升级。解决港口安全现场管控难点，对闸口、场桥、岸桥及危险货物储罐、堆场、仓库等关键场所的人员、车辆、物体隐患、环境风险进行全天候高精度AI智能监控。",
     "contactEmail": "contact@zcyh.com",
     "contactPhone": "020-88888888"
   },
   "config": {
-    "demoVideoUrl": "https://raw.githubusercontent.com/xieyunan83/ZCYH-data/main/uploads/1769496989860_____.mp4",
-    "droneImageUrl": "https://raw.githubusercontent.com/xieyunan83/ZCYH-data/main/uploads/1769497022013____1.png",
+    "demoVideoUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769496989860_____.mp4",
+    "droneImageUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769497022013____1.png",
     "droneScale": 1,
     "droneOffsetX": 0,
     "droneOffsetY": 0
@@ -72,6 +72,19 @@
         "安全评分与统计分析"
       ],
       "iconName": "BrainCircuit"
+    },
+    {
+      "id": "5",
+      "title": "AI+集装箱：全域流转智能监管",
+      "category": "Container",
+      "description": "融合高清像机阵列与AI视觉算法，实时采集集装箱（箱号/ISO码）在港区的全生命周期轨迹。与IPS作业系统、海关数据深度打通，实现从卸船、堆存、查验到出闸的“一箱一档”可视化闭环管理。",
+      "features": [
+        "箱号/ISO码全天候精准识别 (99%准确率)",
+        "场内流转轨迹实时绘制与回放",
+        "无单证/异常作业智能告警",
+        "海关/IPS数据深度融合校验"
+      ],
+      "iconName": "Box"
     }
   ],
   "news": [
@@ -103,7 +116,7 @@
       "clientName": "珠海港集团",
       "projectTitle": "高栏港危化品码头全流程监管",
       "result": "效率提升 +90%",
-      "imageUrl": "https://raw.githubusercontent.com/xieyunan83/ZCYH-data/main/uploads/1769497111429____.png",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769497111429____.png",
       "opacity": 0.3,
       "scale": 1,
       "offsetX": 0,
@@ -114,7 +127,7 @@
       "clientName": "广州港集团",
       "projectTitle": "南沙港区5G+AI智慧安防系统",
       "result": "效率提升 +90%",
-      "imageUrl": "https://raw.githubusercontent.com/xieyunan83/ZCYH-data/main/uploads/1769497089550____.png",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769497089550____.png",
       "opacity": 0.4,
       "scale": 1.1,
       "offsetX": 0,
@@ -125,7 +138,7 @@
       "clientName": "招商港集团",
       "projectTitle": "东江仓码、石龙港、新塘港智慧化改造",
       "result": "效率提升 +90%",
-      "imageUrl": "https://raw.githubusercontent.com/xieyunan83/ZCYH-data/main/uploads/1769497071099____.png",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769497071099____.png",
       "opacity": 0.3,
       "scale": 1,
       "offsetX": 0,
