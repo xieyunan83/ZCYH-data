@@ -9,7 +9,7 @@
   },
   "config": {
     "demoVideoUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769496989860_____.mp4",
-    "droneImageUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769497022013____1.png",
+    "droneImageUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769506397962_bsce0n.png",
     "droneScale": 1,
     "droneOffsetX": 0,
     "droneOffsetY": 0
@@ -112,12 +112,12 @@
   ],
   "cases": [
     {
-      "id": "3",
-      "clientName": "珠海港集团",
-      "projectTitle": "高栏港危化品码头全流程监管",
+      "id": "1",
+      "clientName": "招商港集团",
+      "projectTitle": "东江仓码、石龙港、新塘港智慧化改造",
       "result": "效率提升 +90%",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769497111429____.png",
-      "opacity": 0.3,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769497071099____.png",
+      "opacity": 0.8,
       "scale": 1,
       "offsetX": 0,
       "offsetY": 0
@@ -128,18 +128,18 @@
       "projectTitle": "南沙港区5G+AI智慧安防系统",
       "result": "效率提升 +90%",
       "imageUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769497089550____.png",
-      "opacity": 0.4,
+      "opacity": 0.8,
       "scale": 1.1,
       "offsetX": 0,
       "offsetY": 0
     },
     {
-      "id": "1",
-      "clientName": "招商港集团",
-      "projectTitle": "东江仓码、石龙港、新塘港智慧化改造",
+      "id": "3",
+      "clientName": "珠海港集团",
+      "projectTitle": "高栏港危化品码头全流程监管",
       "result": "效率提升 +90%",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769497071099____.png",
-      "opacity": 0.3,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769497111429____.png",
+      "opacity": 0.8,
       "scale": 1,
       "offsetX": 0,
       "offsetY": 0
