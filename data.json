@@ -1,0 +1,109 @@
+{
+  "companyInfo": {
+    "name": "广东中创云海科技有限公司",
+    "logoText": "中创云海 | ZCYH",
+    "slogan": "智慧港口安全管理应用",
+    "description": "融合制度规范、技术应用与管理智能化升级。解决港口安全现场管控难点，对闸口、场桥、岸桥及危险货物储罐、堆场、仓库等关键场所的人员、车辆、物体隐患、环境风险进行全天候高精度AI智能监控。",
+    "contactEmail": "contact@zcyh.com",
+    "contactPhone": "020-88888888"
+  },
+  "config": {
+    "demoVideoUrl": "",
+    "droneImageUrl": "https://www.pngall.com/wp-content/uploads/4/DJI-Drone-PNG-Image.png",
+    "droneScale": 1,
+    "droneOffsetX": 0,
+    "droneOffsetY": 0
+  },
+  "githubConfig": {
+    "owner": "xieyunan83",
+    "repo": "ZCYH-data",
+    "branch": "main",
+    "token": "",
+    "isConfigured": true
+  },
+  "services": [
+    {
+      "id": "1",
+      "title": "AI+地勤：人车精准管控",
+      "category": "Ground",
+      "description": "实现对人、车在港口内的行为规范进行智能识别，及时告警高效管理。",
+      "features": [
+        "司机下车检测 / 反光衣检测",
+        "入侵检测（越界） / 安全帽检测",
+        "车牌/集装箱号识别",
+        "车辆超速 / 违停 / 逆行识别"
+      ],
+      "iconName": "Eye"
+    },
+    {
+      "id": "2",
+      "title": "AI+低空：高空作业与巡检",
+      "category": "LowAltitude",
+      "description": "构建智能化、无人化的低空安全巡检体系，实现高效巡检与风险预警。",
+      "features": [
+        "港区设施巡检 (裂纹/老化)",
+        "大型机械设备检查 (龙门吊/岸桥)",
+        "电气设备红外热成像",
+        "危险作业无人机喊话指挥"
+      ],
+      "iconName": "Plane"
+    },
+    {
+      "id": "3",
+      "title": "AI+行为：作业规范监督",
+      "category": "Behavior",
+      "description": "对泊位作业、散货装卸、仓库作业、大型机械操作等重点目标进行智能监测。",
+      "features": [
+        "吊物下有人识别 / 人货安全距离",
+        "疲劳驾驶 / 开车玩手机检测",
+        "明火/烟雾识别",
+        "集装箱装卸/堆场作业违规"
+      ],
+      "iconName": "Activity"
+    },
+    {
+      "id": "4",
+      "title": "AI+决策：知识库与操作指导",
+      "category": "Decision",
+      "description": "DeepSeek+法规制度，颠覆传统检索模式，实现“感知-分析-决策-执行”闭环。",
+      "features": [
+        "法规/案例自动弹出",
+        "AI根因分析",
+        "整改方案匹配",
+        "安全评分与统计分析"
+      ],
+      "iconName": "BrainCircuit"
+    }
+  ],
+  "news": [
+    {
+      "id": "1",
+      "title": "招商局集团领导莅临视察",
+      "date": "2025-05-12",
+      "category": "Company",
+      "summary": "招商局集团王秀峰总、宋荣总等各级领导参观，对公司“科技兴安”理念表示高度肯定。"
+    }
+  ],
+  "cases": [
+    {
+      "id": "1",
+      "clientName": "招商港集团",
+      "projectTitle": "东江仓码、石龙港、新塘港智慧化改造",
+      "result": "全面提升码头安全管理水平，实现异常情况自动告警。",
+      "imageUrl": "https://images.unsplash.com/photo-1542114760-b6951263d905?auto=format&fit=crop&q=80&w=1000",
+      "opacity": 0.3,
+      "scale": 1,
+      "offsetX": 0,
+      "offsetY": 0
+    }
+  ],
+  "users": [
+    {
+      "id": "admin-default",
+      "username": "admin",
+      "password": "123456",
+      "role": "admin",
+      "isDefault": true
+    }
+  ]
+}
