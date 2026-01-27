@@ -9,7 +9,7 @@
   },
   "config": {
     "demoVideoUrl": "",
-    "droneImageUrl": "https://raw.githubusercontent.com/xieyunan83/ZCYH-data/main/uploads/1769495427858____1.png",
+    "droneImageUrl": "https://www.pngall.com/wp-content/uploads/4/DJI-Drone-PNG-Image.png",
     "droneScale": 1,
     "droneOffsetX": 0,
     "droneOffsetY": 0
@@ -18,7 +18,8 @@
     "owner": "xieyunan83",
     "repo": "ZCYH-data",
     "branch": "main",
-    "token": ""
+    "token": "",
+    "isConfigured": true
   },
   "services": [
     {
@@ -81,6 +82,20 @@
       "date": "2025-05-12",
       "category": "Company",
       "summary": "招商局集团王秀峰总、宋荣总等各级领导参观，对公司“科技兴安”理念表示高度肯定。"
+    },
+    {
+      "id": "2",
+      "title": "中创云海荣获“智慧港口创新应用奖”",
+      "date": "2025-04-28",
+      "category": "Industry",
+      "summary": "在刚刚结束的2025中国港口科技大会上，我司凭借“AI+决策”系统斩获年度创新大奖。"
+    },
+    {
+      "id": "3",
+      "title": "发布2025年Q1港口安全数据报告",
+      "date": "2025-04-10",
+      "category": "Company",
+      "summary": "报告显示，接入中创云海安全系统的码头，第一季度违规行为平均下降45%，事故率为零。"
     }
   ],
   "cases": [
@@ -89,7 +104,29 @@
       "clientName": "招商港集团",
       "projectTitle": "东江仓码、石龙港、新塘港智慧化改造",
       "result": "效率提升 +90%",
-      "imageUrl": "https://raw.githubusercontent.com/xieyunan83/ZCYH-data/main/uploads/1769495474685____.png",
+      "imageUrl": "https://raw.githubusercontent.com/xieyunan83/ZCYH-data/main/uploads/1769496351888____.png",
+      "opacity": 0.3,
+      "scale": 1,
+      "offsetX": 0,
+      "offsetY": 0
+    },
+    {
+      "id": "2",
+      "clientName": "广州港集团",
+      "projectTitle": "南沙港区5G+AI智慧安防系统",
+      "result": "实现了港区全覆盖的智能监控，违规行为识别率达到99%以上。",
+      "imageUrl": "https://images.unsplash.com/photo-1590247813693-5541d1c609fd?auto=format&fit=crop&q=80&w=1000",
+      "opacity": 0.4,
+      "scale": 1.1,
+      "offsetX": 0,
+      "offsetY": 0
+    },
+    {
+      "id": "3",
+      "clientName": "珠海港集团",
+      "projectTitle": "高栏港危化品码头全流程监管",
+      "result": "构建了从车辆入闸到作业结束的全链条闭环管理体系。",
+      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=1000",
       "opacity": 0.3,
       "scale": 1,
       "offsetX": 0,
@@ -100,7 +137,7 @@
     {
       "id": "admin-default",
       "username": "admin",
-      "password": "Zhangzong",
+      "password": "123456",
       "role": "admin",
       "isDefault": true
     }
