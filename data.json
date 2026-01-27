@@ -5,7 +5,8 @@
     "slogan": "智慧港口安全管理应用",
     "description": "融合制度规范、技术应用与管理智能化升级。解决港口安全现场管控难点，对闸口、场桥、岸桥及危险货物储罐、堆场、仓库等关键场所的人员、车辆、物体隐患、环境风险进行全天候高精度AI智能监控。",
     "contactEmail": "contact@zcyh.com",
-    "contactPhone": "020-88888888"
+    "contactPhone": "020-88888888",
+    "logoUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769531005541_7eh4nu.png"
   },
   "config": {
     "demoVideoUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769496989860_____.mp4",
@@ -149,7 +150,7 @@
     {
       "id": "admin-default",
       "username": "admin",
-      "password": "123456",
+      "password": "Zhangzong",
       "role": "admin",
       "isDefault": true
     }
