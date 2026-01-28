@@ -6,14 +6,44 @@
     "description": "融合制度规范、技术应用与管理智能化升级。解决港口安全现场管控难点，对闸口、场桥、岸桥及危险货物储罐、堆场、仓库等关键场所的人员、车辆、物体隐患、环境风险进行全天候高精度AI智能监控。",
     "contactEmail": "contact@zcyh.com",
     "contactPhone": "020-88888888",
-    "logoUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769531005541_7eh4nu.png"
+    "logoUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769531005541_7eh4nu.png",
+    "copyrightText": "© 2026 广东中创云海科技有限公司 | ALL RIGHTS RESERVED"
   },
   "config": {
     "demoVideoUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769496989860_____.mp4",
     "droneImageUrl": "https://cdn.jsdelivr.net/gh/xieyunan83/ZCYH-data@main/uploads/1769497022013____1.png",
     "droneScale": 1.1,
     "droneOffsetX": 0,
-    "droneOffsetY": 0
+    "droneOffsetY": 0,
+    "footerColumns": [
+      {
+        "title": "核心模块",
+        "items": [
+          "AI+地勤",
+          "AI+低空",
+          "AI+行为",
+          "AI+决策",
+          "AI+集装箱"
+        ]
+      },
+      {
+        "title": "关于我们",
+        "items": [
+          "企业简介",
+          "发展历程",
+          "荣誉资质",
+          "加入我们"
+        ]
+      },
+      {
+        "title": "联系方式",
+        "items": [
+          "13926226386",
+          "info@zcyh-tech.com",
+          "广州市黄埔区光谱中路11号云升科学园B1栋"
+        ]
+      }
+    ]
   },
   "githubConfig": {
     "owner": "xieyunan83",
